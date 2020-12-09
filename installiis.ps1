@@ -1,2 +1,2 @@
 install-module servermanager
-add-windowsfeature web-server -inculdeallsubfeatures
+add-windowsfeature web-server -inculdeallsubfeature
